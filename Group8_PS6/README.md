@@ -142,4 +142,7 @@ This project is released under the MIT License. See `LICENSE` for details.
 - Use absolute paths or environment variables in all config files.
 - For feature extensions, open a discussion issue prior to submitting code.
 
+## Demo
+The demo can be found on this link - https://youtu.be/LfPqlaGkw00
+
 
